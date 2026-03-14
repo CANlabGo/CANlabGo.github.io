@@ -11,36 +11,46 @@ author_profile: true
 <br/>
 
 
-### 2025
+### 2026
 <!-- 
+- [01/26] Happy to serve on NSF Panel (VINE)
 - [03/25] Happy to serve on NSF Panel (SaTC)
 - [05/25] Happy to serve on DoE Panel
 - [06/25] Happy to serve on NSF Panel (Epsore)
 -->
-- [10/25] Work on IoV security is accepted by IEEE IoTJ. Congrats Xian!
-- [10/25] Work on malware analysis is accepted by IEEE TIFS. Congrats!
-- [09/25] Work on IoT security is accepted by SmartIoT 2025. Congrats!
-- [09/25] Work on AI security is accepted by HICSS-59. Congrats Sabrina!
-- [08/25] Welcome Suriya to join CAN lab!
-- [08/25] Welcome Yuchen and Jimmy to join CAN lab!
-- [06/25] Dr. Jiang is invited to serve PC for Posters&Demos @ CCS 2025. Welcome to submit your work via [link](https://www.sigsac.org/ccs/CCS2025/call-for-posters-and-demos/)!
-- [05/25] Win the Best Poster Award in SecureTrans @ IEEE S&P 2025. Congrats!
-- [04/25] Sabrina Successfully defended her PhD dissertation. Congrats Sabrina!
-- [03/25] Poster on vehicle security is accepted by SecureTrans @ IEEE S&P 2025. Congrats!  
-- [03/25] Work on vehicle security is accepted by SecureTrans @ IEEE S&P 2025. Congrats!  
-- [03/25] Paper on decentralized Federated Learning is accpeted by ACMSE2025. Congrats Xian!
-- [03/25] Dr. Jiang is invited to serve TPC for IEEE CNS 2025.
-- [03/25] Ziyang presented our work @ ISICN25 in San Juan, Puerto Rico!
-- [03/25] Paper on Generative-AI in Metaverse is accepted by IEEE Network. Congrats Dr. Jiang!
-- [02/25] Dr. Jiang is invited to serve TPC for WASA2025.
-- [02/25] Paper on intrusion detection in IoT is accepted by ISICN25. Congrats Dr. Jiang! 
-- [02/25] Paper on defending backdoor attacks is accepted by ISICN25. Congrats Ziyang!
+
+- [01/25] Paper on AI security is accepted by SoutheastCon 2026. Congrats!
 - [01/25] Happy New Year!
 <!-- - [01/25] Dr.Jiang attended NSF NeTS early-career PI meetings.-->
 
 
 <details>
   <summary>more</summary>
+
+
+<b>2024</b>
+<ul>
+<li> [11/25] Dr. Jiang is invited to serve Demo/Posters co-chair for 2026 International Conference on Intelligent Multimedia, Networking, and Security (IMNS2026). Please consider to submit your work at [link](https://conf-imns.org/2026/Call-for-Paper.html).   </li>  
+<li> [10/25] Work on malware analysis is accepted by IEEE TIFS. Congrats!</li>
+<li> [09/25] Work on IoT security is accepted by SmartIoT 2025. Congrats!</li>
+<li> [09/25] Work on AI security is accepted by HICSS-59. Congrats Sabrina!</li>
+<li> [08/25] Welcome Suriya to join CAN lab!</li>
+<li> [08/25] Welcome Yuchen and Jimmy to join CAN lab!</li>
+<li> [06/25] Dr. Jiang is invited to serve PC for Posters&Demos @ CCS 2025. Welcome to submit your work via [link](https://www.sigsac.org/ccs/CCS2025/call-for-posters-and-demos/)!</li>
+<li> [05/25] Win the Best Poster Award in SecureTrans @ IEEE S&P 2025. Congrats!</li>
+<li> [04/25] Sabrina Successfully defended her PhD dissertation. Congrats Sabrina!</li>
+<li> [03/25] Poster on vehicle security is accepted by SecureTrans @ IEEE S&P 2025. Congrats!</li>  
+<li> [03/25] Work on vehicle security is accepted by SecureTrans @ IEEE S&P 2025. Congrats!</li>  
+<li> [03/25] Paper on decentralized Federated Learning is accpeted by ACMSE2025. Congrats Xian!</li>
+<li> [03/25] Dr. Jiang is invited to serve TPC for IEEE CNS 2025.</li>
+<li> [03/25] Ziyang presented our work @ ISICN25 in San Juan, Puerto Rico!</li>
+<li> [03/25] Paper on Generative-AI in Metaverse is accepted by IEEE Network. Congrats Dr. Jiang!</li>
+<li> [02/25] Dr. Jiang is invited to serve TPC for WASA2025.</li>
+<li> [02/25] Paper on intrusion detection in IoT is accepted by ISICN25. Congrats Dr. Jiang!</li> 
+<li> [02/25] Paper on defending backdoor attacks is accepted by ISICN25. Congrats Ziyang!</li>
+<li> [01/25] Happy New Year!</li>
+</ul>
+
 
 <b>2024</b>
 <ul>
