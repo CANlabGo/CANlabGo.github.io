@@ -30,13 +30,13 @@ author_profile: true
 
 <b>2024</b>
 <ul>
-<li> [11/25] Dr. Jiang is invited to serve Demo/Posters co-chair for 2026 International Conference on Intelligent Multimedia, Networking, and Security (IMNS2026). Please consider to submit your work at <a href="[https://conf-imns.org/2026/Call-for-Paper.html]">link</a>.</li>  
+<li> [11/25] Dr. Jiang is invited to serve Demo/Posters co-chair for 2026 International Conference on Intelligent Multimedia, Networking, and Security (IMNS2026). Please consider to submit your work at <a href="https://conf-imns.org/2026/Call-for-Paper.html">link</a>.</li>  
 <li> [10/25] Work on malware analysis is accepted by IEEE TIFS. Congrats!</li>
 <li> [09/25] Work on IoT security is accepted by SmartIoT 2025. Congrats!</li>
 <li> [09/25] Work on AI security is accepted by HICSS-59. Congrats Sabrina!</li>
 <li> [08/25] Welcome Suriya to join CAN lab!</li>
 <li> [08/25] Welcome Yuchen and Jimmy to join CAN lab!</li>
-<li> [06/25] Dr. Jiang is invited to serve PC for Posters&Demos @ CCS 2025. Welcome to submit your work via <a href="[https://www.sigsac.org/ccs/CCS2025/call-for-posters-and-demos/]">link</a>.</li>
+<li> [06/25] Dr. Jiang is invited to serve PC for Posters&Demos @ CCS 2025. Welcome to submit your work via <a href="https://www.sigsac.org/ccs/CCS2025/call-for-posters-and-demos/">link</a>.</li>
 <li> [05/25] Win the Best Poster Award in SecureTrans @ IEEE S&P 2025. Congrats!</li>
 <li> [04/25] Sabrina Successfully defended her PhD dissertation. Congrats Sabrina!</li>
 <li> [03/25] Poster on vehicle security is accepted by SecureTrans @ IEEE S&P 2025. Congrats!</li>  
