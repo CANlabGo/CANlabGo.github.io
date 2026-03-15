@@ -30,7 +30,7 @@ author_profile: true
 
 <b>2024</b>
 <ul>
-<li> [11/25] Dr. Jiang is invited to serve Demo/Posters co-chair for 2026 International Conference on Intelligent Multimedia, Networking, and Security (IMNS2026). Please consider to submit your work at [link](https://conf-imns.org/2026/Call-for-Paper.html).   </li>  
+<li> [11/25] Dr. Jiang is invited to serve Demo/Posters co-chair for 2026 International Conference on Intelligent Multimedia, Networking, and Security (IMNS2026). Please consider to submit your work at [link](https://conf-imns.org/2026/Call-for-Paper.html).</li>  
 <li> [10/25] Work on malware analysis is accepted by IEEE TIFS. Congrats!</li>
 <li> [09/25] Work on IoT security is accepted by SmartIoT 2025. Congrats!</li>
 <li> [09/25] Work on AI security is accepted by HICSS-59. Congrats Sabrina!</li>
