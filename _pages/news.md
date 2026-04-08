@@ -18,6 +18,7 @@ author_profile: true
 - [05/25] Happy to serve on DoE Panel
 - [06/25] Happy to serve on NSF Panel (Epsore)
 -->
+- [03/26] Paper on Federated Learning security is accepted by IEEE IoT Journal. Congrats!
 <!--- [02/26] Dr.Jiang is invited to serve co-chair for CISS symposium @ ICC2027. Please consider to submit your work! -->
 - [01/26] Paper on AI security is accepted by SoutheastCon 2026. Congrats!
 - [01/26] Happy New Year!
